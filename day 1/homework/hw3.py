@@ -1,0 +1,11 @@
+#ნომერი მესამე) 10 ცვლადი
+name="beso zhgenti"
+name="badri zhgenti"
+name="natia shurgaia"
+name="nutsa zhgenti"
+name="kato zhgenti"
+name="joni zhgenti"
+name="nunuka kikvadze"
+name="trofim shurgaia"
+name="maia nachkebia"
+name="giorgi zhgenti"
