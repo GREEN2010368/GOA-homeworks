@@ -1,0 +1,6 @@
+user_number1=int(input("please enter your first number"))
+user_number2=float(input('please enter your second number'))
+print(user_number1)
+print(user_number2)
+print(user_number1>user_number2)
+print(user_number1==user_number2)
