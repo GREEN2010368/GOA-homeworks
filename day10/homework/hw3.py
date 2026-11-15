@@ -6,7 +6,7 @@ guess = int(input("გამოიცანით საიდუმლო რ�
 while guess != secret:
     count += 1
 
-    if guss > secret:
+    if guess > secret:
         print("შეყვანილი რიცხვი მეტია საიდუმლო რიცხვზე!")
     else:
         print("შეყვანილი რიცხვი ნაკლებია საიდუმლო რიცხვზე!")

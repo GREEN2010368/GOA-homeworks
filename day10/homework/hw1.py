@@ -12,3 +12,7 @@ for i in range (10):
         luwi+=1
     else:
         kenti +=1
+print(dadebiti)
+print(uarkofiti)
+print(kenti)
+print(luwi)
